@@ -1,0 +1,5 @@
+*.tar.gz
+database.sql
+project/
+uploads/
+uploads_data/
